@@ -1,1 +1,2 @@
 # navbar-component
+A simple website navbar component designed using only react and tailwind CSS. Very simple and easy to implement. It was a bit hard when I started it but along the way as I calm down and plan the code; it beconmes crystal clear, lol. Lemme know what you think and also you can contact me for all your website development ranging from simple landing page to complicated ecommerce and crypto website. Contact me on twitter via @maludatech and whatsapp at 08163887385. I'm also available for hire.
