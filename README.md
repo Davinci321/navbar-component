@@ -1,7 +1,7 @@
 # Description 
 A simple website navbar component designed using only ReactJS and tailwind CSS. It was a bit confusing when I started it as I have not designed a proper navbar before without the help of bootstrap but I decided to give it a try on my own and it wasn't so hard after all.Lemme know what you think and also you can contact me for all your website development ranging from simple landing page to complicated ecommerce and crypto website. Contact me on twitter via @maludatech and whatsapp at 08163887385. I'm also available for hire.
 
-# Getting Started with Create React App
+# Getting Started with Create React App 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
